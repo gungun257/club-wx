@@ -3,6 +3,7 @@
 计算机毕业设计 社团小程序 社团管理系统，前后端分离，分为三个角色：系统管理员，社团管理员和用户
 <br>有登录，参加社团，参加活动，论坛，社团管理，用户管理，活动管理，动态管理等功能
 
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
 ## 二、技术栈
 1. 前端：vue框架，微信原生小程序
 2. 后端：nodejs express框架
@@ -47,6 +48,7 @@
 3. 扫一扫加我微信好友吧，请备注 社团小程序源码获取
 <img src="./preview/wx.jpg" style="width: 200px;">
 
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
 
 
 
